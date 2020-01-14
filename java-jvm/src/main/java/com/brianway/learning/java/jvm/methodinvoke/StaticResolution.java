@@ -8,7 +8,7 @@ package com.brianway.learning.java.jvm.methodinvoke;
  */
 public class StaticResolution {
     public static void sayHello() {
-        System.out.println("hello world");
+        System.out.println("hello world1");
     }
 
     public static void main(String[] args) {
