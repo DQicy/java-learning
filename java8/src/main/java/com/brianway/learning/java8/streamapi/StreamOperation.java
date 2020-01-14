@@ -29,6 +29,6 @@ public class StreamOperation {
 
         //forEach 是一个返回 void 的终端操作
         System.out.println("------forEach-------");
-        menu.stream().forEach(System.out::println);
+        menu.forEach(System.out::println);
     }
 }
